@@ -56,7 +56,7 @@ body {
 
 .forgot {
   display: flex;
-  justify-content: flex-end;
+  justify-content: justify-end;
   font-size: 0.75rem;
   line-height: 1rem;
   color: rgba(156, 163, 175,1);
@@ -75,7 +75,7 @@ body {
 
 .sign {
   display: block;
-  width: 100%;
+  width: 110%;
   background-color: rgba(167, 139, 250, 1);
   padding: 0.75rem;
   text-align: center;
