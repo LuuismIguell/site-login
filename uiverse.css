@@ -113,6 +113,7 @@ body {
 
 .social-icons {
   display: flex;
+  width: 110%;
   justify-content: center;
 }
 
