@@ -92,6 +92,7 @@ body {
 
 .social-message {
   display: flex;
+  width: 110%;
   align-items: center;
   padding-top: 1rem;
 }
